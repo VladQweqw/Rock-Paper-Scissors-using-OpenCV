@@ -1,6 +1,6 @@
 # Rock Paper Scissors using OpenCV
 
-# 🎲
+# 🎲 Game
 - This is an app made for fun, you can play it with one friend!
 
 # 🔑 How it works
